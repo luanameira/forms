@@ -1,0 +1,21 @@
+span{
+    display:flex;
+}
+
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.primeira{
+    background-color: rgb(64, 159, 241);
+    padding: 10px;
+    border:10px solid blue;
+    border-radius: 10%;    
+}
+
+#botao{
+    margin: 0 35%;
+    border-radius: 10%;
+}
